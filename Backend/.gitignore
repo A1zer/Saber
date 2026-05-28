@@ -1,0 +1,5 @@
+.env
+*.env
+info.env
+node_modules/
+uploads/
