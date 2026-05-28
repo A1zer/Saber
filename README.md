@@ -1,6 +1,6 @@
 # 🚀 Micro-learning & Gamified LMS Platform
 
-Saber is a modern, full-stack micro-learning platform designed to deliver short, high-impact video courses. The platform features an advanced **Gamification System** with dynamic badge unlocking, alongside an **Audit Trail** network that logs user activity securely linked to active login sessions.
+A modern, full-stack micro-learning platform designed to deliver short, high-impact video courses. The platform features an advanced **Gamification System** with dynamic badge unlocking, alongside an **Audit Trail** network that logs user activity securely linked to active login sessions.
 
 ---
 
