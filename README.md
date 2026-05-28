@@ -1,4 +1,4 @@
-# 🚀 Saber – Micro-learning & Gamified LMS Platform
+# 🚀 Micro-learning & Gamified LMS Platform
 
 Saber is a modern, full-stack micro-learning platform designed to deliver short, high-impact video courses. The platform features an advanced **Gamification System** with dynamic badge unlocking, alongside an **Audit Trail** network that logs user activity securely linked to active login sessions.
 
@@ -45,9 +45,9 @@ Ensure you have **Node.js** and **MySQL Server** installed and running.
    DB_PORT=3306
    DB_USER=root
    DB_PASSWORD=your_mysql_password
-   DB_NAME=saber_db
+   DB_NAME=your_database_name
    JWT_SECRET=your_jwt_secure_secret_key
-   COMPANY_NAME=Saber Platforms
+   COMPANY_NAME=your_company_name
    ```
 4. Run the database migration scripts to seed the `achievements` and `achievement_rules` tables.
 5. Start the server:
